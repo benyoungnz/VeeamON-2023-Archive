@@ -21,7 +21,7 @@ Veeam innovates release after release, driving new and enhanced capabilities for
 
 
 ## Downloads
-- [MIA39 & VTB37 VeeamON_2023_Ultimate_guide_to_End_User_Enablement.pdf](/files/MIA39 & VTB37 VeeamON_2023_Ultimate_guide_to_End_User_Enablement.pdf)
+- [MIA39 & VTB37 VeeamON_2023_Ultimate_guide_to_End_User_Enablement.pdf](<./files/MIA39 & VTB37 VeeamON_2023_Ultimate_guide_to_End_User_Enablement.pdf>)
 
 ## Speakers
 #### Brad Barker

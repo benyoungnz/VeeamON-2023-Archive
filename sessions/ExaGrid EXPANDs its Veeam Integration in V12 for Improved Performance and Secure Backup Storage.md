@@ -32,7 +32,7 @@ In this session, we will explore the benefits of ExaGrid-Veeam integration, incl
 
 
 ## Downloads
-- [MIA60 ExaGrid EXPANDs its Veeam Integration in V12 for Improved Performance and Secure Backup Storage.pdf](/files/MIA60 ExaGrid EXPANDs its Veeam Integration in V12 for Improved Performance and Secure Backup Storage.pdf)
+- [MIA60 ExaGrid EXPANDs its Veeam Integration in V12 for Improved Performance and Secure Backup Storage.pdf](<./files/MIA60 ExaGrid EXPANDs its Veeam Integration in V12 for Improved Performance and Secure Backup Storage.pdf>)
 
 ## Speakers
 #### Graham Woods

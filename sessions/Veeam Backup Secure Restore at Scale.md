@@ -11,7 +11,7 @@ In this session, users will experience the end-to-end experience of testing back
 
 
 ## Downloads
-- [MIA41 Secure-Restore-at-Scale.pdf](/files/MIA41 Secure-Restore-at-Scale.pdf)
+- [MIA41 Secure-Restore-at-Scale.pdf](<./files/MIA41 Secure-Restore-at-Scale.pdf>)
 
 ## Speakers
 #### Johan Huttenga

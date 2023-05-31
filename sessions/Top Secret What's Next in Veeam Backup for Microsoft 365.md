@@ -7,7 +7,7 @@ Be sure not to miss this top secret session where you can learn about what's nex
 
 
 ## Downloads
-- [MIA53 What’s Next in Veeam Backup for Microsoft 365.pdf](/files/MIA53 What’s Next in Veeam Backup for Microsoft 365.pdf)
+- [MIA53 What’s Next in Veeam Backup for Microsoft 365.pdf](<./files/MIA53 What’s Next in Veeam Backup for Microsoft 365.pdf>)
 
 ## Speakers
 #### Mike Resseler

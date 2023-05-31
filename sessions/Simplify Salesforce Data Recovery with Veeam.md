@@ -11,7 +11,7 @@ Join Veeam's Aaron Murphy, Field CTO for the Americas, and Alison Connor, Senio
 
 
 ## Downloads
-- [MIA30 - Simplify Salesforce Data Recovery with Veeam.pdf](/files/MIA30 - Simplify Salesforce Data Recovery with Veeam.pdf)
+- [MIA30 - Simplify Salesforce Data Recovery with Veeam.pdf](<./files/MIA30 - Simplify Salesforce Data Recovery with Veeam.pdf>)
 
 ## Speakers
 #### Alison Connor

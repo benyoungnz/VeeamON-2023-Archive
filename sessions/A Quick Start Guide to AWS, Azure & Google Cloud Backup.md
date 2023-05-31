@@ -15,7 +15,7 @@ By using Veeam for cloud backup, you can ensure that your organization is prepar
 
 
 ## Downloads
-- [MIA33 & VTB38 VeeamON - Quick Start AWS_Azure_GoogleCloud (1).pdf](/files/MIA33 & VTB38 VeeamON - Quick Start AWS_Azure_GoogleCloud (1).pdf)
+- [MIA33 & VTB38 VeeamON - Quick Start AWS_Azure_GoogleCloud (1).pdf](<./files/MIA33 & VTB38 VeeamON - Quick Start AWS_Azure_GoogleCloud (1).pdf>)
 
 ## Speakers
 #### Rick Vanover

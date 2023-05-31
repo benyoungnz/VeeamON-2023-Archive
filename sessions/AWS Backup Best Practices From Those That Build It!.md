@@ -11,7 +11,7 @@ Join Veeam’s R&D powerhouses on all things AWS – Niels Engelen and Dustin Al
 
 
 ## Downloads
-- [MIA20 AWS Best Practices From those that build it.pdf](/files/MIA20 AWS Best Practices From those that build it.pdf)
+- [MIA20 AWS Best Practices From those that build it.pdf](<./files/MIA20 AWS Best Practices From those that build it.pdf>)
 
 ## Speakers
 #### Niels Engelen

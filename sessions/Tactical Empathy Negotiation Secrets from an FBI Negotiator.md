@@ -15,7 +15,7 @@ For All Attendees: To get ASL, Spanish or Portuguese interpretation, please clic
 
 
 ## Downloads
-- [Interprefy Smartphone App - User Guide English (2).pdf](/files/Interprefy Smartphone App - User Guide English (2).pdf)
+- [Interprefy Smartphone App - User Guide English (2).pdf](<./files/Interprefy Smartphone App - User Guide English (2).pdf>)
 
 ## Speakers
 #### Chris Voss

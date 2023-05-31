@@ -11,7 +11,7 @@ By the end of the session, you will have a solid understanding of the Veeam Back
 
 
 ## Downloads
-- [MIA15 Veeam_Backup_for_Microsoft_365_Restore_portal_deep_dive.pdf](/files/MIA15 Veeam_Backup_for_Microsoft_365_Restore_portal_deep_dive.pdf)
+- [MIA15 Veeam_Backup_for_Microsoft_365_Restore_portal_deep_dive.pdf](<./files/MIA15 Veeam_Backup_for_Microsoft_365_Restore_portal_deep_dive.pdf>)
 
 ## Speakers
 #### Chris Arceneaux

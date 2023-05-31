@@ -21,7 +21,7 @@ Join this session and be walked through the following steps involving SIEM and V
 
 
 ## Downloads
-- [DEM09 How to SIEM with Veeam.pdf](/files/DEM09 How to SIEM with Veeam.pdf)
+- [DEM09 How to SIEM with Veeam.pdf](<./files/DEM09 How to SIEM with Veeam.pdf>)
 
 ## Speakers
 #### Brett Gavin

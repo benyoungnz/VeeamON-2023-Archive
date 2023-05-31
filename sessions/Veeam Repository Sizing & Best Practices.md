@@ -7,7 +7,7 @@ Adaptable, versatile and multifaceted: these are the words that come to mind for
 
 
 ## Downloads
-- [MIA10 & VTB42 - Veeam Repository Sizing & Best Practices.pdf](/files/MIA10 & VTB42 - Veeam Repository Sizing & Best Practices.pdf)
+- [MIA10 & VTB42 - Veeam Repository Sizing & Best Practices.pdf](<./files/MIA10 & VTB42 - Veeam Repository Sizing & Best Practices.pdf>)
 
 ## Speakers
 #### Adam Congdon

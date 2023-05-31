@@ -11,7 +11,7 @@ Join Andrew Zhelezko, Veeam Product Strategy Technologist, and Alison Connor, Ve
 
 
 ## Downloads
-- [MIA24 & VTB41 Salesforce Backup...what, like it's hard.pdf](/files/MIA24 & VTB41 Salesforce Backup...what, like it's hard.pdf)
+- [MIA24 & VTB41 Salesforce Backup...what, like it's hard.pdf](<./files/MIA24 & VTB41 Salesforce Backup...what, like it's hard.pdf>)
 
 ## Speakers
 #### Alison Connor

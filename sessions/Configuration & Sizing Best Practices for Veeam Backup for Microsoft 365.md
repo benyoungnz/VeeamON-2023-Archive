@@ -11,7 +11,7 @@ Veeam's Benedikt Daeumling, Business Solutions Architect, and David Tosoff, Sr. 
 
 
 ## Downloads
-- [MIA38 Configuraton & Sizing Best Practices for Veeam Backup for Microsoft 365.pdf](/files/MIA38 Configuraton & Sizing Best Practices for Veeam Backup for Microsoft 365.pdf)
+- [MIA38 Configuraton & Sizing Best Practices for Veeam Backup for Microsoft 365.pdf](<./files/MIA38 Configuraton & Sizing Best Practices for Veeam Backup for Microsoft 365.pdf>)
 
 ## Speakers
 #### Benedikt Daeumling

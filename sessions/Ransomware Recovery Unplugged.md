@@ -14,7 +14,7 @@ Ransomware attacks need to be viewed under the same category as power outages an
 
 
 ## Downloads
-- [MIA04 Ransomware Recovery Unplugged.pdf](/files/MIA04 Ransomware Recovery Unplugged.pdf)
+- [MIA04 Ransomware Recovery Unplugged.pdf](<./files/MIA04 Ransomware Recovery Unplugged.pdf>)
 
 ## Speakers
 #### Rick Vanover

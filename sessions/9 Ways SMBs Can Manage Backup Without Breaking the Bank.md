@@ -19,7 +19,7 @@ You’ll walk away from this session with nine features that will help you stre
 
 
 ## Downloads
-- [VTB12 9 Ways SMBs can Manage Backup.pdf](/files/VTB12 9 Ways SMBs can Manage Backup.pdf)
+- [VTB12 9 Ways SMBs can Manage Backup.pdf](<./files/VTB12 9 Ways SMBs can Manage Backup.pdf>)
 
 ## Speakers
 #### Kirsten Stoner

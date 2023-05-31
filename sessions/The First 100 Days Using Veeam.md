@@ -15,7 +15,7 @@ So whether you’re evaluating Veeam for your organization, in the early days of
 
 
 ## Downloads
-- [MIA27 & VTB29 - First 100 Days - VeeamON 2023 PowerPoint.pdf](/files/MIA27 & VTB29 - First 100 Days - VeeamON 2023 PowerPoint.pdf)
+- [MIA27 & VTB29 - First 100 Days - VeeamON 2023 PowerPoint.pdf](<./files/MIA27 & VTB29 - First 100 Days - VeeamON 2023 PowerPoint.pdf>)
 
 ## Speakers
 #### Matthew Crape

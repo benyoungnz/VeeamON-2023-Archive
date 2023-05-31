@@ -17,7 +17,7 @@ Geo-replication
 
 
 ## Downloads
-- [MIA55 5 Levels of Unbreakable Cyber Resiliency with Veeam V12 & Scality.pdf](/files/MIA55 5 Levels of Unbreakable Cyber Resiliency with Veeam V12 & Scality.pdf)
+- [MIA55 5 Levels of Unbreakable Cyber Resiliency with Veeam V12 & Scality.pdf](<./files/MIA55 5 Levels of Unbreakable Cyber Resiliency with Veeam V12 & Scality.pdf>)
 
 ## Speakers
 #### Candida Valois

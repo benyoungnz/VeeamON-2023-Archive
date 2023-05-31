@@ -22,7 +22,7 @@ You will walk away understanding:
 
 
 ## Downloads
-- [VPS03 Veeam ONE_Provide multi-tenant monitoring as a service.pdf](/files/VPS03 Veeam ONE_Provide multi-tenant monitoring as a service.pdf)
+- [VPS03 Veeam ONE_Provide multi-tenant monitoring as a service.pdf](<./files/VPS03 Veeam ONE_Provide multi-tenant monitoring as a service.pdf>)
 
 ## Speakers
 #### Kirsten Stoner

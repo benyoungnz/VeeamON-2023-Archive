@@ -7,7 +7,7 @@ Monitoring your data protection operations is imperative to ensure you are meeti
 
 
 ## Downloads
-- [VTB05 10TipsVeeamONE - VeeamON 2023N.pdf](/files/VTB05 10TipsVeeamONE - VeeamON 2023N.pdf)
+- [VTB05 10TipsVeeamONE - VeeamON 2023N.pdf](<./files/VTB05 10TipsVeeamONE - VeeamON 2023N.pdf>)
 
 ## Speakers
 #### Kirsten Stoner

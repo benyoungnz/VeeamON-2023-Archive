@@ -9,7 +9,7 @@ This session will provide an overview of Veeam Recovery Orchestrator (VRO) and t
 
 
 ## Downloads
-- [MIA05 The Essential Guide to Veeam Recovery Orchestrator for Disaster Recovery Management.pdf](/files/MIA05 The Essential Guide to Veeam Recovery Orchestrator for Disaster Recovery Management.pdf)
+- [MIA05 The Essential Guide to Veeam Recovery Orchestrator for Disaster Recovery Management.pdf](<./files/MIA05 The Essential Guide to Veeam Recovery Orchestrator for Disaster Recovery Management.pdf>)
 
 ## Speakers
 #### Andre Atkinson

@@ -9,7 +9,7 @@ In this session, join Leah Troscianecki and Karinne Bessette as they explore wor
 
 
 ## Downloads
-- [VPS06 3 Veeam-powered Plays for Microsoft CSP Partners.pdf](/files/VPS06 3 Veeam-powered Plays for Microsoft CSP Partners.pdf)
+- [VPS06 3 Veeam-powered Plays for Microsoft CSP Partners.pdf](<./files/VPS06 3 Veeam-powered Plays for Microsoft CSP Partners.pdf>)
 
 ## Speakers
 #### Karinne Bessette

@@ -25,7 +25,7 @@ We will also share real-world examples of how service providers have helped orga
 
 
 ## Downloads
-- [MIA50 How Veeam-powered DRaaS Keeps Businesses Running and Ransomware Resilient.pdf](/files/MIA50 How Veeam-powered DRaaS Keeps Businesses Running and Ransomware Resilient.pdf)
+- [MIA50 How Veeam-powered DRaaS Keeps Businesses Running and Ransomware Resilient.pdf](<./files/MIA50 How Veeam-powered DRaaS Keeps Businesses Running and Ransomware Resilient.pdf>)
 
 ## Speakers
 #### Michael Loos

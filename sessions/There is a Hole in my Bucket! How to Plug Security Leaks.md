@@ -19,7 +19,7 @@ You'll walk away from this session with actionable insights needed to stretch cl
 
 
 ## Downloads
-- [MIA11 & VTB39 There's a hole in my bucket!.pdf](/files/MIA11 & VTB39 There's a hole in my bucket!.pdf)
+- [MIA11 & VTB39 There's a hole in my bucket!.pdf](<./files/MIA11 & VTB39 There's a hole in my bucket!.pdf>)
 
 ## Speakers
 #### Olivier Rossi

@@ -17,7 +17,7 @@ What you will learn:
 
 
 ## Downloads
-- [MIA59 7 Ways Wasabi Cloud Storage Makes Veeam Backup Better.pdf](/files/MIA59 7 Ways Wasabi Cloud Storage Makes Veeam Backup Better.pdf)
+- [MIA59 7 Ways Wasabi Cloud Storage Makes Veeam Backup Better.pdf](<./files/MIA59 7 Ways Wasabi Cloud Storage Makes Veeam Backup Better.pdf>)
 
 ## Speakers
 #### Drew Schlussel

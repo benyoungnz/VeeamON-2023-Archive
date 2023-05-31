@@ -14,7 +14,7 @@ Designing Backup for Microsoft 365 data is completely different when you are dea
 
 
 ## Downloads
-- [MIA03 Architecting Veeam Backup for Microsoft 365 at Scale.pdf](/files/MIA03 Architecting Veeam Backup for Microsoft 365 at Scale.pdf)
+- [MIA03 Architecting Veeam Backup for Microsoft 365 at Scale.pdf](<./files/MIA03 Architecting Veeam Backup for Microsoft 365 at Scale.pdf>)
 
 ## Speakers
 #### Falko Banaszak

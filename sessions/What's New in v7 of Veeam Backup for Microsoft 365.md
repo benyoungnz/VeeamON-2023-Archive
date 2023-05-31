@@ -11,7 +11,7 @@ The good news is that backup copy immutability, advanced monitoring and self-ser
 
 
 ## Downloads
-- [VTB27 - Whats New in v7 of Veeam Backup for Microsoft 365.pdf](/files/VTB27 - Whats New in v7 of Veeam Backup for Microsoft 365.pdf)
+- [VTB27 - Whats New in v7 of Veeam Backup for Microsoft 365.pdf](<./files/VTB27 - Whats New in v7 of Veeam Backup for Microsoft 365.pdf>)
 
 ## Speakers
 #### Benedikt Daeumling

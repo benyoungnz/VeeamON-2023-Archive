@@ -31,7 +31,7 @@ Becoming a Veeam Competency Partner gives current and potential customers the co
 
 
 ## Downloads
-- [VPS09 Veeam_Competency_Program_VeeamOn_N.pdf](/files/VPS09 Veeam_Competency_Program_VeeamOn_N.pdf)
+- [VPS09 Veeam_Competency_Program_VeeamOn_N.pdf](<./files/VPS09 Veeam_Competency_Program_VeeamOn_N.pdf>)
 
 ## Speakers
 #### Jordan Jacobs

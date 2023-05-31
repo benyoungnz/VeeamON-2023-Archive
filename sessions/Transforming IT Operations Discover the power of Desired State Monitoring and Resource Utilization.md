@@ -15,7 +15,7 @@ This talk is a must-see for anyone looking to optimize their IT operations.
 
 
 ## Downloads
-- [MIA28 Transforming IT OperationsDiscover the power of desired state monitoring and resource utilization.pdf](/files/MIA28 Transforming IT OperationsDiscover the power of desired state monitoring and resource utilization.pdf)
+- [MIA28 Transforming IT OperationsDiscover the power of desired state monitoring and resource utilization.pdf](<./files/MIA28 Transforming IT OperationsDiscover the power of desired state monitoring and resource utilization.pdf>)
 
 ## Speakers
 #### Chris Arceneaux

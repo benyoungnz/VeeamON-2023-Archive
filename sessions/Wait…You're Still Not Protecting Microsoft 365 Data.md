@@ -11,7 +11,7 @@ In this discussion with IDC’s Research Director, Cloud Data Management, Archan
 
 
 ## Downloads
-- [MIA37 Wait you're still not protecting M365 data_IDC slides.pdf](/files/MIA37 Wait you're still not protecting M365 data_IDC slides.pdf)
+- [MIA37 Wait you're still not protecting M365 data_IDC slides.pdf](<./files/MIA37 Wait you're still not protecting M365 data_IDC slides.pdf>)
 
 ## Speakers
 #### Edward Watson

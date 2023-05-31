@@ -9,7 +9,7 @@ Do you want to learn from the worst practices of others when it comes to backing
 
 
 ## Downloads
-- [DEM14 - 7 common misconfigurations with Veeam backup for microsoft 365.pdf](/files/DEM14 - 7 common misconfigurations with Veeam backup for microsoft 365.pdf)
+- [DEM14 - 7 common misconfigurations with Veeam backup for microsoft 365.pdf](<./files/DEM14 - 7 common misconfigurations with Veeam backup for microsoft 365.pdf>)
 
 ## Speakers
 #### Tim Smith

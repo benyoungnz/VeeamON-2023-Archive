@@ -11,7 +11,7 @@ Additionally, we will share our insights and best practices for implementing and
 
 
 ## Downloads
-- [MPS05 Veeam Service Provider Console v7 What’s new VON.pdf](/files/MPS05 Veeam Service Provider Console v7 What’s new VON.pdf)
+- [MPS05 Veeam Service Provider Console v7 What’s new VON.pdf](<./files/MPS05 Veeam Service Provider Console v7 What’s new VON.pdf>)
 
 ## Speakers
 #### Timothy Hudson

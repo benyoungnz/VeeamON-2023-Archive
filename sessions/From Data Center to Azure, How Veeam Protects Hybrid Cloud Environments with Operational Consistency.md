@@ -11,7 +11,7 @@ In this session, both new and power users of Veeam will see how seamlessly the t
 
 
 ## Downloads
-- [MIA34 Operationally Consistent Protection From the Datacenter to Azure.pdf](/files/MIA34 Operationally Consistent Protection From the Datacenter to Azure.pdf)
+- [MIA34 Operationally Consistent Protection From the Datacenter to Azure.pdf](<./files/MIA34 Operationally Consistent Protection From the Datacenter to Azure.pdf>)
 
 ## Speakers
 #### Johan Huttenga

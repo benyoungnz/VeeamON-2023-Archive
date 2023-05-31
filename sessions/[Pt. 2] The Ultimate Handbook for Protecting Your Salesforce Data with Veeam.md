@@ -9,7 +9,7 @@ This is part two of The Ultimate Handbook for Protecting Your Salesforce Data wi
 
 
 ## Downloads
-- [DEM16 The Ultimate Handbook for Protecting Your Salesforce Data with Veeam 2.pdf](/files/DEM16 The Ultimate Handbook for Protecting Your Salesforce Data with Veeam 2.pdf)
+- [DEM16 The Ultimate Handbook for Protecting Your Salesforce Data with Veeam 2.pdf](<./files/DEM16 The Ultimate Handbook for Protecting Your Salesforce Data with Veeam 2.pdf>)
 
 ## Speakers
 #### Andrew Zhelezko

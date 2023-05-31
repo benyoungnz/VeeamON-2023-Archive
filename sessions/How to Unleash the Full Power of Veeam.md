@@ -15,7 +15,7 @@ Join us to see how you can unleash the full power of Veeam!
 
 
 ## Downloads
-- [MIA49 How to Unleash the Full Power of Veeam.pdf](/files/MIA49 How to Unleash the Full Power of Veeam.pdf)
+- [MIA49 How to Unleash the Full Power of Veeam.pdf](<./files/MIA49 How to Unleash the Full Power of Veeam.pdf>)
 
 ## Speakers
 #### Chris Spencer

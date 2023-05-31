@@ -20,7 +20,7 @@ This engaging session will not only showcase these often overlooked features but
 
 
 ## Downloads
-- [MIA44 & VTB34 - Veeam Backup & Replication v12 Hidden Features_corrected (1).pdf](/files/MIA44 & VTB34 - Veeam Backup & Replication v12 Hidden Features_corrected (1).pdf)
+- [MIA44 & VTB34 - Veeam Backup & Replication v12 Hidden Features_corrected (1).pdf](<./files/MIA44 & VTB34 - Veeam Backup & Replication v12 Hidden Features_corrected (1).pdf>)
 
 ## Speakers
 #### Fabian Kessler

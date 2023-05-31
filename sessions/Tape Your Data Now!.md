@@ -11,7 +11,7 @@ Join this session to run down the latest enhancements, including best practices 
 
 
 ## Downloads
-- [MIA09 Tape your data now!.pdf](/files/MIA09 Tape your data now!.pdf)
+- [MIA09 Tape your data now!.pdf](<./files/MIA09 Tape your data now!.pdf>)
 
 ## Speakers
 #### Vinh Pham

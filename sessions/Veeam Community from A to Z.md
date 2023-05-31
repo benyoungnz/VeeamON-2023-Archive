@@ -22,7 +22,7 @@ Don't miss your chance to hear what's new, now and next for the Veeam Community!
 
 
 ## Downloads
-- [VTB36 VeeamON 2023 Veeam Community A to Z (1).pdf](/files/VTB36 VeeamON 2023 Veeam Community A to Z (1).pdf)
+- [VTB36 VeeamON 2023 Veeam Community A to Z (1).pdf](<./files/VTB36 VeeamON 2023 Veeam Community A to Z (1).pdf>)
 
 ## Speakers
 #### Constanta Madalina Cristil

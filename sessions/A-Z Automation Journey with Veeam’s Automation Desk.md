@@ -8,7 +8,7 @@ Ansible, Brackets, Chocolatey, Dashboards, Errors, Functions... It's impossible 
 In this session join Maurice Kevenaar and Joe Houghes to either start your journey into the wonderful world of Automation or expand your existing knowledge with our experiences.
 
 ## Downloads
-- [MIA29 - A-Z Automation Journey with Veeam’s Automation Desk.pdf](/files/MIA29 - A-Z Automation Journey with Veeam’s Automation Desk.pdf)
+- [MIA29 - A-Z Automation Journey with Veeam’s Automation Desk.pdf](<./files/MIA29 - A-Z Automation Journey with Veeam’s Automation Desk.pdf>)
 
 ## Speakers
 #### Maurice Kevenaar

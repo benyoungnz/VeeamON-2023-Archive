@@ -7,7 +7,7 @@ Don't miss this top secret session where you can learn more about the latest on 
 
 
 ## Downloads
-- [MIA52 Top Secret Kasten K10 announcement.pdf](/files/MIA52 Top Secret Kasten K10 announcement.pdf)
+- [MIA52 Top Secret Kasten K10 announcement.pdf](<./files/MIA52 Top Secret Kasten K10 announcement.pdf>)
 
 ## Speakers
 #### Gaurav Rishi

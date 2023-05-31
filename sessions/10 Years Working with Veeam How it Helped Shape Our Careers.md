@@ -15,7 +15,7 @@ As the global leader in data protection, Veeam has made it's impact across the w
 
 
 ## Downloads
-- [MIA12 10 Years Working with Veeam How it Helped Shape Our Careers  (1).pdf](/files/MIA12 10 Years Working with Veeam How it Helped Shape Our Careers  (1).pdf)
+- [MIA12 10 Years Working with Veeam How it Helped Shape Our Careers  (1).pdf](<./files/MIA12 10 Years Working with Veeam How it Helped Shape Our Careers  (1).pdf>)
 
 ## Speakers
 #### Ian Sanderson

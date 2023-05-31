@@ -20,7 +20,7 @@ Join Tamecka and Edwin to hear what’s top-of-mind from the C-suite, gather les
 
 
 ## Downloads
-- [MIA43 - Evolution of Ransomware A C-level Perspective for Backup Teams.pdf](/files/MIA43 - Evolution of Ransomware A C-level Perspective for Backup Teams.pdf)
+- [MIA43 - Evolution of Ransomware A C-level Perspective for Backup Teams.pdf](<./files/MIA43 - Evolution of Ransomware A C-level Perspective for Backup Teams.pdf>)
 
 ## Speakers
 #### Edwin Weijdema

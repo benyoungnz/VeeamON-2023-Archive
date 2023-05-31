@@ -7,7 +7,7 @@ In this session, learn how Veeam Data Platform enables Veeam partners to deliver
 
 
 ## Downloads
-- [MPS04 Build an impenetrable DR strategy with Veeam-powered BaaS & DRaaS.pdf](/files/MPS04 Build an impenetrable DR strategy with Veeam-powered BaaS & DRaaS.pdf)
+- [MPS04 Build an impenetrable DR strategy with Veeam-powered BaaS & DRaaS.pdf](<./files/MPS04 Build an impenetrable DR strategy with Veeam-powered BaaS & DRaaS.pdf>)
 
 ## Speakers
 #### Martin Williams

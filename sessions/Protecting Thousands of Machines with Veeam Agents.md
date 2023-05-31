@@ -11,7 +11,7 @@ In this session, we cover all of this. Join us to review the design and deployme
 
 
 ## Downloads
-- [VTB32 & MIA16 Protecting Thousands of Machines with Veeam Agents.pdf](/files/VTB32 & MIA16 Protecting Thousands of Machines with Veeam Agents.pdf)
+- [VTB32 & MIA16 Protecting Thousands of Machines with Veeam Agents.pdf](<./files/VTB32 & MIA16 Protecting Thousands of Machines with Veeam Agents.pdf>)
 
 ## Speakers
 #### Dmitry Popov
