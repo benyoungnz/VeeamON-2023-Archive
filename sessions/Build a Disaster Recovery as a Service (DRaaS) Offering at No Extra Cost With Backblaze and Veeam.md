@@ -18,7 +18,7 @@ For any questions, email partnerships@backblaze.com. 
 
 
 ## Downloads
-- [MIA58 Build a Disaster Recovery as a Service (DRaaS) Offering at No Extra Cost with Backblaze and Veeam.pdf](/files/MIA58 Build a Disaster Recovery as a Service (DRaaS) Offering at No Extra Cost with Backblaze and Veeam.pdf)
+- [MIA58 Build a Disaster Recovery as a Service (DRaaS) Offering at No Extra Cost with Backblaze and Veeam.pdf](<./files/MIA58 Build a Disaster Recovery as a Service (DRaaS) Offering at No Extra Cost with Backblaze and Veeam.pdf>)
 
 ## Speakers
 #### Rasmus Haslund

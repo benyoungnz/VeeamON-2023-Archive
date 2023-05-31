@@ -11,7 +11,7 @@ For All Attendees: To get ASL, Spanish or Portuguese interpretation, please clic
 
 
 ## Downloads
-- [Interprefy Smartphone App - User Guide English (2).pdf](<./files/Interprefy Smartphone App - User Guide English (2).pdf>)
+- [Interprefy Smartphone App - User Guide English (2).pdf](<./files/Interprefy Smartphone App - User Guide English (2).pdf>)- [Interprefy Smartphone App - User Guide Portuguese.pdf](<./files/Interprefy Smartphone App - User Guide Portuguese.pdf>)- [Interprefy Smartphone App - User Guide Spanish.pdf](<./files/Interprefy Smartphone App - User Guide Spanish.pdf>)- [Web Browser - User Guide English.pdf](<./files/Web Browser - User Guide English.pdf>)- [Web Browser - User Guide Portuguese.pdf](<./files/Web Browser - User Guide Portuguese.pdf>)- [Web Browser - User Guide Spanish.pdf](<./files/Web Browser - User Guide Spanish.pdf>)
 
 ## Speakers
 #### Anthony Spiteri
