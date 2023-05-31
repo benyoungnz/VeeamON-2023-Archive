@@ -4,7 +4,10 @@ The provided data has been ~~sourced~~ "borrowed" from the VeeamON 2023 Event we
 
 By clicking on each session, you can access detailed information such as abstract, speakers, and downloadable resources. Alternatively, you may choose to download files directly from the files directory.
 
+If/when video files become available an attempt will be made to capture these somehow. 
+
 Made with ❤️ - Ben Young [@benyoungnz](<https://twitter.com/benyoungnz>), all content copyright to their respective owners.
+
 
 ## Session Index
 
@@ -99,7 +102,6 @@ Made with ❤️ - Ben Young [@benyoungnz](<https://twitter.com/benyoungnz>), al
 - [3 Veeam-powered Plays for Microsoft CSP Customers ](</sessions/3 Veeam-powered Plays for Microsoft CSP Customers.md>) 
 - [Partners Only Upsell with Veeam Data Platform As Simple as 1-2-3 ](</sessions/Partners Only Upsell with Veeam Data Platform As Simple as 1-2-3.md>) 
 - [Enterprise Applications - Deploy & Configure ](</sessions/Enterprise Applications - Deploy & Configure.md>) 
-- [The Top 10 Security Best Practices from Veeam ](</sessions/The Top 10 Security Best Practices from Veeam.md>) 
 - [NEW AWS, Azure and Google Cloud Backup Explained ](</sessions/[NEW] AWS, Azure and Google Cloud Backup Explained.md>) 
 - [Top Secret What's Next in Veeam Backup for Microsoft 365 ](</sessions/Top Secret What's Next in Veeam Backup for Microsoft 365.md>) 
 - [Protect EPIC in EPIC Fashion ](</sessions/Protect EPIC in EPIC Fashion.md>) 
