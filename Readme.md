@@ -1,4 +1,4 @@
-![VeeamON 2023 Logo](files/veeamon-logo.webp)
+![VeeamON 2023 Logo](sessions/files/veeamon-logo.webp)
 # VeeamON 2023 Session Archive
 The provided data has been ~~sourced~~ "borrowed" from the VeeamON 2023 Event website, allowing for convenient access to a comprehensive session history and associated presentation files. The event website will eventually be decomissioned so we can maintain a record here. 
 
